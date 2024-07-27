@@ -123,7 +123,7 @@ button:hover {
 .todo-card .actions {
     display: flex;
     justify-content: flex-end;
-    gap: 10px;
+    gap: 11px;
     margin-top: 10px;
 }
 
